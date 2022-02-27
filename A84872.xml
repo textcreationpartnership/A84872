@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new-years gift: presented by Tho. Lord Fairfax, and the General-councel of Officers, in severall propositions for the generall satisfaction, and setling the peace of the kingdom; by equal distribution of elections an equal representative of the whole people electing making of laws, constitutions and offices for the future government of the kingdom. By the appointment of his Excellency, the Lord General, and his general Councel of Officers. Signed, John Rushworth. With the charge against His Maiesty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84872</idno>
+            <idno type="STC">Wing F209</idno>
+            <idno type="STC">Thomason E536_24</idno>
+            <idno type="STC">ESTC R6805</idno>
+            <idno type="EEBO-CITATION">99873039</idno>
+            <idno type="PROQUEST">99873039</idno>
+            <idno type="VID">164835</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164835)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E536[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new-years gift: presented by Tho. Lord Fairfax, and the General-councel of Officers, in severall propositions for the generall satisfaction, and setling the peace of the kingdom; by equal distribution of elections an equal representative of the whole people electing making of laws, constitutions and offices for the future government of the kingdom. By the appointment of his Excellency, the Lord General, and his general Councel of Officers. Signed, John Rushworth. With the charge against His Maiesty.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army. Council. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smithurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan [illegible]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army. --  Council --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164835:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="authorization">
+                        <p>A New-years Gift: PRESENTED BY THO. Lord FAIRFAX, And the General-councel of Officers, In ſeverall PROPOSITIONS For the generall ſatisfaction, and ſetling the Peace of the Kingdom;</p>
+                        <p>BY 
+<list>
+                              <item>Equal diſtribution of Elections</item>
+                              <item>An equal Repreſentative of the whole People electing</item>
+                              <item>Making of Laws, Conſtitutions and Offices for the future Government of the King<g ref="char:EOLhyphen"/>dom.</item>
+                           </list>
+                        </p>
+                        <p>By the appointment of his Excellency, the Lord General, and his general Councel of Officers.</p>
+                        <closer>
+                           <signed>Signed, JOHN RUSHWORTH.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>With the Charge againſt His MAIESTY.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Smithurſt,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164835:2"/>
+            <!-- PDF PAGE 2 -->
+            <pb n="3" facs="tcp:164835:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>To the Sons of Freedom.</head>
+            <opener>
+               <salute>CO<g ref="char:V">Ʋ</g>NTRY-MEN,</salute>
+            </opener>
+            <p>CUſtom (amongſt the obedient) is become of ſuch a force, that it enableth the Tyrant to reign, and the Cruel to oppreſs. Cuſtom (by reaſon of its antiquity) is become a Conqueror of all oppoſers. Cuſtom (for it excludeth not all good) is often the performer of many good offices among friends: and this Cuſtom (under the later notion) doth in vite me at this time to preſent unto thee (courteous Country-man) this ſmall <hi>New-yeers gift,</hi> which thou mayſt intitle, <hi>Propoſitions which would ſet<g ref="char:EOLhyphen"/>tle Peace.</hi> And indeed, I think it very ſeaſonable to begin with the yeer, for that I preſume it will not in all things be accompliſhed by the end of it (ſo great is the retardment of carnal Councels.) For the contents, rendreth it to be even a Catalogue of the Princely Priviledges of a Free-born people, whoſe ſplendor hath hitherto been impriſoned in that ſad dungeon of darkneſs, <hi>Royall Tyranny;</hi> which if a ſingle Champion did at any time oppoſe, there hath ſtill been ſome <hi>whited-wall-Magiſtrate</hi> to cauſe him to be ſmitten on the mouth. Now therefore, if thou wilt but vouchſafe to look back upon paſt times, and conſider the indigentneſs of the Sub<g ref="char:EOLhyphen"/>jects liberty in thoſe days, and compare it with the Freedom due unto them (which thou haſt here preſented unto thee,) thou wilt ſay (if thou take not up a prejudicate opinion thereof) That he is aſſuredly thy friend that endeavoureth to procure it, as he deſireth to be which preſenteth it to thee.</p>
+            <p>
+               <pb n="4" facs="tcp:164835:3"/>
+               <!-- PDF PAGE 3 -->
+NOw (after publick juſtice, and there<g ref="char:EOLhyphen"/>with the preſent quieting of the kingdom thus far provided for) we proceed in order, to the generall ſatisfaction, and ſet<g ref="char:EOLhyphen"/>ling of the Kingdom, as followeth:</p>
+            <p n="1">I. That you would ſet ſome reaſonable and certain period to your own power, by which time that great and ſupreme Truſt repoſed in you, ſhall be returned into the hands of the People, from, and for whom you received it, that ſo you may give them ſatisfaction and aſſurance that what you have contended for againſt the King (for which they have been put to ſo much trou<g ref="char:EOLhyphen"/>ble, coſt, and loſs of blood) hath been only for their Liberties and common intereſt, and not for your own perſonall Intereſt, or power.</p>
+            <p n="2">II. That (with a period to this Parlia<g ref="char:EOLhyphen"/>ment, to be aſſigned as ſhort as may be, with ſafety to the Kingdom, and publick Intereſt thereof) there may be a ſound ſettlement of the peace and future government of the Kingdom, upon grounds of Common
+<pb n="5" facs="tcp:164835:3"/>
+               <!-- PDF PAGE 3 -->Right, Freedom and ſafety, to the effect here following:</p>
+            <p>Firſt, that from the end of this, there may be a certain ſucceſſion of future Parliaments (Annuall, or Bienniall) with ſecure provi<g ref="char:EOLhyphen"/>ſion.</p>
+            <p n="1">1. For the certainty of their meeting, ſitting and ending.</p>
+            <p n="2">2. For the equal diſtribution of Electi<g ref="char:EOLhyphen"/>ons thereunto, to render the Houſe of Com<g ref="char:EOLhyphen"/>mons, as near as may be, an equal Repre<g ref="char:EOLhyphen"/>ſentative of the whole People electing.</p>
+            <p n="3">3. For the certainty of the Peoples meeting (according to ſuch Diſtributions) to elect, and for their full freedom in electi<g ref="char:EOLhyphen"/>ons, provided, That none who have engaged or ſhall engage in War, againſt the right of Parliament, and intereſt of the Kingdom therein, or have adhered to the enemies thereof, may be capable of electing, or be<g ref="char:EOLhyphen"/>ing elected (at leaſt during a competent number of years) nor any other, who ſhall oppoſe, or not joyn in agreement to this ſettlement.</p>
+            <p n="4">4. For future clearing, and aſcertaining
+<pb n="6" facs="tcp:164835:4"/>
+               <!-- PDF PAGE 4 -->the power of the ſaid Repreſentatives; in order to which, that it be declared, That (as to the whole intereſt of the People of England) ſuch Repreſentatives have, and ſhall have the ſupreme power and truſt, as to the making of Laws, Conſtitutions, and Offices, for the ordering, preſervation, and Government of the whole; and as to the altering, and repealing, or aboliſhing of the ſame, the making of War, or Peace; and as to the higheſt and finall Judgement, in all civil things, without further appeal to any created ſtanding power; and that all the people of this Nation, and all Officers of Juſtice, and Miniſters of State (as ſuch) ſhall, in all ſuch things be accountable and ſubject thereunto, and bound and concluded thereby; provided, That,</p>
+            <p n="1">1 They may not cenſure or queſtion any man after the end of this Parliament, for any thing ſaid or done in reference to the late Wars, or publick differences, ſaving in execution of ſuch determinations of this Parliament, as ſhall be leſt in force at the ending thereof, in relation to ſuch as have ſerved the King againſt the Parliament.</p>
+            <p n="2">
+               <pb n="7" facs="tcp:164835:4"/>
+               <!-- PDF PAGE 4 -->
+2 They may not render up, or give, or take away any the foundations of common Right, Liberty or Safety contained in this ſettlement and Agreement. But that the power of theſe two things, laſt mentioned, ſhall be always underſtood to be reſerved from, and not entruſted to the ſaid Repre<g ref="char:EOLhyphen"/>ſentatives.</p>
+            <p n="5">5. For liberty of entring diſſents in the ſaid Repreſentatives, That, in caſe of corru<g ref="char:EOLhyphen"/>ption, or abuſe in theſe matters of higheſt truſt, the People may be in capacity to know who are free thereof, and who guilty, to the end only they may avoid the further truſting of ſuch, but without further penal<g ref="char:EOLhyphen"/>ty to any for their free judgments there.</p>
+            <p>Secondly, that no King be hereafter ad<g ref="char:EOLhyphen"/>mitted, but upon the election of, and as up<g ref="char:EOLhyphen"/>on truſt from the People, by ſuch their Re<g ref="char:EOLhyphen"/>preſentatives, nor without firſt diſclaiming and diſavowing all pretence to a Negative voice, againſt the determinations of the ſaid Repreſentatives, or Commons in Parlia<g ref="char:EOLhyphen"/>ment; and that to be done in ſome certain form, more clear then heretofore in the Coronation Oath.</p>
+            <pb n="6" facs="tcp:164835:5"/>
+            <!-- PDF PAGE 5 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:164835:5"/>
+            <!-- PDF PAGE 5 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:164835:6"/>
+            <!-- PDF PAGE 6 -->
+            <p>Theſe matters of general ſettlement (<hi>viz.</hi> That concerning a period to this Parliament, and the other particulars thence following hitherto) we propound to be declared and provided by this Parliament, or by the authority of the Commons therein, and to be further eſtabliſhed by a general Contract, or Agreement of the People, with their ſubſcriptions thereunto, as that (withall) it may be provided, That none may be capable of any benefit by the Agreement, who ſhall not conſent and ſubſcribe thereunto; nor any King be admit<g ref="char:EOLhyphen"/>ted to the Crown, or other perſon to any Office, or place of publick Truſt, without expreſſe accord and ſubſcrption to the ſame.</p>
+            <p>THe Charge againſt the King is drawn up, and runs thus: That <hi>Charles Stuart</hi> hath acted con<g ref="char:EOLhyphen"/>trary to his truſt, in departing from the Parlia<g ref="char:EOLhyphen"/>ment, ſetting up his Standard, making a War a<g ref="char:EOLhyphen"/>gainſt them, and thereby been occaſion of much bloud-ſhed and miſery to the people, whom he was ſet over for good: That he gave Commiſſi<g ref="char:EOLhyphen"/>ons, and was occaſion of a ſecond War, with be<g ref="char:EOLhyphen"/>ſides what done contrary to the Liberties of the Subject, and tending to the deſtruction of the fundamental Laws and Liberties of this Kingdom; all which amounts to a forfeiture of the ſaid truſt. With much more to this effect.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
